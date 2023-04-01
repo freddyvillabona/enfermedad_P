@@ -1,3 +1,3 @@
 # enfermedad_P
 
-![](enfemedad1.png)
+![](enfermedad1.png)
